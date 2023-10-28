@@ -34,7 +34,7 @@ const SpecialOffers = () => {
             label="Learn More"
             backgroundColor="bg-white"
             borderColor="border-slate-gray"
-            textColor="text-slay-gray"
+            textColor="text-slate-gray"
             iconURL={arrowRight}
           />
         </div>
